@@ -1,0 +1,5 @@
+README
+
+I`m learning the RoR.
+
+Lesson 9 mackenziechild.me/12-in-12/9/
